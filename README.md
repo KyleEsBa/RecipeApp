@@ -2,6 +2,8 @@
 
 A simple and modern React recipe application built with Vite. This app allows users to browse, search, and view details for a collection of recipes. It demonstrates best practices with React functional components, hooks, and React Router.
 
+Deployed in Vercel: https://recipe-app-rust-kappa.vercel.app/
+
 ## Features
 
 - **Recipe List Page**: Displays all recipes in a responsive grid layout.
