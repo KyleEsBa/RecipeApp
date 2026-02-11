@@ -67,7 +67,3 @@ flowchart TD
 - **RecipeCard**: Displays a preview of a recipe (image, title, description, category).
 - **RecipeDetail**: Shows full recipe info, ingredients, and instructions. Includes a back button.
 - **SearchBar**: Filters recipes by title, ingredient, or category as you type.
-
----
-
-This project is a great starting point for learning React, Vite, and modern frontend best practices.
